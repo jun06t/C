@@ -6,7 +6,7 @@ import (
 	"github.com/jun06t/D"
 )
 
-const version = "1.1.0"
+const version = "1.2.0"
 
 func Func() string {
 	fmt.Println(D.Func())
